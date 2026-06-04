@@ -10,4 +10,4 @@ A terminal-based interactive game built using Python that allows users to play a
 ## 🛠️ How to Run
 1. Clone this repository:
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git]
+
