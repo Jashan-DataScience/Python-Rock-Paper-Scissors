@@ -9,7 +9,7 @@ A terminal-based interactive game built using Python that allows users to play a
 
 ## 🛠️ How to Run & Open Project
 
-### Option 1: Clone via Terminal (Git Clone)
-To run this project on your local machine, copy and paste this command into your terminal:
-```bash
-[Click here to view Repository](https://github.com/Jashan-DataScience/Python-Rock-Paper-Scissors.git)
+### Option 1: Direct Web Browser Link
+Click the link below to view the repository directly in your web browser:
+
+[Click here to view Repository](https://github.com/Jashan-DataScience/Python-Rock-Paper-Scissors)
