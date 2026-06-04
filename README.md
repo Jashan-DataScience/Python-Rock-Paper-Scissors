@@ -7,7 +7,9 @@ A terminal-based interactive game built using Python that allows users to play a
 - Dynamic score tracking for both User and Computer.
 - Clean validation checks for user inputs.
 
-## 🛠️ How to Run
-1. Clone this repository:
+## 🛠️ How to Run & Open Project
+
+### Option 1: Clone via Terminal (Git Clone)
+To run this project on your local machine, copy and paste this command into your terminal:
 ```bash
-https://github.com/Jashan-DataScience/Python-Rock-Paper-Scissors
+[Click here to view Repository](https://github.com/Jashan-DataScience/Python-Rock-Paper-Scissors.git)
