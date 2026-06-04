@@ -10,4 +10,4 @@ A terminal-based interactive game built using Python that allows users to play a
 ## 🛠️ How to Run
 1. Clone this repository:
 ```bash
-(https://github.com/Jashan-DataScience/Python-Rock-Paper-Scissors)
+https://github.com/Jashan-DataScience/Python-Rock-Paper-Scissors
